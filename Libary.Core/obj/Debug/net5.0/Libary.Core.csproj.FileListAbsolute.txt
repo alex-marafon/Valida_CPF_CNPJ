@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\bin\Debug\net5.0\Libary.Core.deps.json
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\bin\Debug\net5.0\Libary.Core.dll
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\bin\Debug\net5.0\ref\Libary.Core.dll
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\bin\Debug\net5.0\Libary.Core.pdb
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.dll
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\ref\Libary.Core.dll
+C:\Users\Asus\Desktop\Biblioteca\Libary.Core\obj\Debug\net5.0\Libary.Core.pdb
